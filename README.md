@@ -1,4 +1,4 @@
-# Yes or No ❤️
+# Yes or No
 
 A simple interactive website built with HTML, CSS, and JavaScript. Features a funny question, a moving "No" button, and a cute message when "Yes" is clicked.
 
